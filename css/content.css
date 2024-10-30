@@ -1,0 +1,86 @@
+body {
+    width: 1440px;
+    height: 10931px; 
+    background-color: black;
+    position: relative;
+  }
+
+  h1{
+    left: 196px; 
+    top: 952px; 
+    position: absolute; 
+    color: white; 
+    font-size: 96px; 
+    font-family: Alegreya; 
+    font-style: italic; 
+    font-weight: 500; 
+  }
+
+  .p_about {
+    width: 1047px; 
+    left: 198px; 
+    top: 1113px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Alegreya; 
+    font-weight: 500; 
+    word-wrap: break-word;
+  } 
+
+  h2{
+    left: 196px; 
+    top: 1906px; 
+    position: absolute;
+    color: white; 
+    font-size: 96px; 
+    font-family: Alegreya; 
+    font-style: italic; 
+    font-weight: 500; 
+    word-wrap: break-word;
+  }
+
+  .p_A {
+    left: 259px; 
+    top: 2160px; 
+    position: absolute; 
+    color: white; 
+    font-size: 681px; 
+    font-family: Alegreya; 
+    font-weight: 800; 
+    word-wrap: break-word;
+  } 
+
+  .p_a {
+    left: 820px; 
+    top: 2160px; 
+    position: absolute; 
+    color: white; 
+    font-size: 681px; 
+    font-family: Alegreya; 
+    font-weight: 800; 
+    word-wrap: break-word;
+  } 
+
+  .p_corner {
+    left: 662px; 
+    top: 2166px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Alegreya; 
+    font-weight: 500; 
+    word-wrap: break-word;
+  } 
+
+  .p_serif {
+    left: 468px; 
+    top: 2981px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Alegreya; 
+    font-weight: 500; 
+    word-wrap: break-word;
+  } 
+
