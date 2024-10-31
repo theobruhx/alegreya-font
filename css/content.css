@@ -3,6 +3,11 @@ body {
     height: 10931px;
     background-color: black;
     position: relative;
+    overflow-x: hidden;
+    }
+
+  body {
+    margin: 0 auto;
   }
 
   .img_1 {
